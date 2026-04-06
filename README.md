@@ -89,3 +89,7 @@ Attribution Statement:
 This system was developed by Sean Newell (Turner, Oregon). All rights regarding the conceptual framework, the unified master equation, and the 30-node observable matrix are protected under CC BY 4.0.
 ------------------------------
 
+## Official Registry
+- **Zenodo DOI:** [10.5281/zenodo.18290962](https://doi.org)
+- **ORCID iD:** [0009-0009-4252-8499](https://orcid.org)
+- 
