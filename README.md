@@ -1,3 +1,13 @@
+## Core Theorem (MUST)
+
+The system defines a limiting entropy collapse:
+
+MUST ≡ lim_{Entropy → 0} ∮_G [RΦ · Bμ / Qk] · CNex = U∞
+
+Interpretation:
+As entropy decreases, bulk quantum behavior collapses into a stable boundary observable.
+
+
 ------------------------------
 ## Master Unified System — Full Uncompressed Version 1.0
 Author: Sean Newell
